@@ -1,6 +1,6 @@
 # MCP Server dependencies (runs locally)
 mcp>=1.0.0
-orgo>=0.1.0
+orgo>=0.0.30
 pydantic>=2.0.0
 python-dotenv>=1.0.0
 
